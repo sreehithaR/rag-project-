@@ -27,15 +27,9 @@ Tech Stack
 
 
 
-Project Structure
 
 
-rag-project/
-│── utils/
-│   └── rag.py        # Core RAG logic
-│── app.py            # Streamlit UI
-│── requirements.txt  # Dependencies
-│── README.md
+
 
 
 
